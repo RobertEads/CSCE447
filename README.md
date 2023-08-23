@@ -1,2 +1,2 @@
 # CSCE447
-Website for CSCE 447 to host info about and links to projects for class
+Personal website for CSCE 447 class to host info about and links to my projects.
