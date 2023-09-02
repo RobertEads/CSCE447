@@ -8,7 +8,7 @@ body{
     margin: 0;
     padding: 0;
     background: url("media/Zachry Engineering Education Complex.jpg");
-    background-size: 100%;
+    background-size: fill;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -48,6 +48,19 @@ body{
 }
 
 .sectionTwo a {
+    text-decoration: none;
+    color: blue;
+}
+
+.sectionThree {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: larger;
+}
+
+.sectionThree a {
     text-decoration: none;
     color: blue;
 }
